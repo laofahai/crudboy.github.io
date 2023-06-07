@@ -1,2 +1,1 @@
-<!-- docs/_sidebar.md -->
-* [Home](/en-us/)
+* [Home](/en-us/ "Crud Boy - Never get into ICU!")
